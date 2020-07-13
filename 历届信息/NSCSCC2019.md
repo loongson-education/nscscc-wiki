@@ -40,10 +40,10 @@
 
 ## 开源代码
 
-[清华大学1队](https://github.com/trivialmips/nontrivial-mips)
+[清华大学1队](https://github.com/trivialmips/nontrivial-mips) @trivialmips
 
-[北京邮电大学1队](https://github.com/name1e5s/Sirius)
+[北京邮电大学1队](https://github.com/name1e5s/Sirius) @name1e5s
 
-[中国科学院大学2队](https://github.com/nscscc2019ucas/nscscc2019ucas)
+[中国科学院大学2队](https://github.com/nscscc2019ucas/nscscc2019ucas) @nscscc2019ucas
 
-[西北工业大学1队](https://dev.tencent.com/u/linjiav/p/NSP/git)
+[西北工业大学1队](https://dev.tencent.com/u/linjiav/p/NSP/git) 
