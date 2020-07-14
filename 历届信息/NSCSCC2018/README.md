@@ -6,7 +6,7 @@
 
 ## PPT
 
-[nscscc2018](https://github.com/cnyangkun/nscscc2018)
+[NSCSCC2018](https://github.com/cnyangkun/nscscc2018/tree/master/PPT) @cnyangkun
 
 
 ## 开源代码

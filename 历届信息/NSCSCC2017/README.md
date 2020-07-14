@@ -2,7 +2,7 @@
 
 ## PPT
 
-[nscscc2017](https://github.com/cnyangkun/nscscc2017)
+[NSCSCC2017](https://github.com/cnyangkun/nscscc2017/tree/master/DOC) @cnyangkun
 
 ## 开源
 

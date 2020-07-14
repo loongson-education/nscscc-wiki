@@ -12,6 +12,8 @@
 
 解压密码：nscscc2020
 
+初赛提交包（beta）：https://github.com/loongson-education/nscscc-group-submission
+
 第一次线上培训：https://www.bilibili.com/video/BV1kQ4y1A7zm?p=1
 
 ## 个人赛
@@ -35,7 +37,9 @@ NSCSCC | 资源包 | PPT | 开源代码
 
 [第二届-myCPU启动Linux指南-国科大.pdf](https://github.com/loongson-education/nscscc-wiki/blob/master/历届信息/NSCSCC2018/第二届-myCPU启动Linux指南-国科大.pdf)
 
-[第三届-北理工经验分享](https://github.com/Silverster98/bit_nscscc_suggestion)
+[第二届-心得总结-北理工]([https://github.com/cnyangkun/nscscc2018/blob/master/DOC/%E7%B3%BB%E7%BB%9F%E8%83%BD%E5%8A%9B%E5%9F%B9%E5%85%BB%E5%A4%A7%E8%B5%9B%E5%8F%82%E8%B5%9B%E5%BF%83%E5%BE%97%E6%80%BB%E7%BB%93-%E5%8C%97%E7%90%86%E5%B7%A5.pdf](https://github.com/cnyangkun/nscscc2018/blob/master/DOC/系统能力培养大赛参赛心得总结-北理工.pdf))
+
+[第三届-针对参加龙芯杯的若干建议-北理工](https://github.com/Silverster98/bit_nscscc_suggestion)
 
 ## 学习资料（望贡献）
 
@@ -55,7 +59,7 @@ NSCSCC | 资源包 | PPT | 开源代码
 
 **实践** [Verilog, Formal Verification and Verilator Beginner's Tutorial](https://zipcpu.com/tutorial/)
 
-**乱序执行入门** [riscv-boom](https://boom-core.org/)
+**乱序执行入门** [RISC-V BOOM](https://boom-core.org/)
 
 ## Vivado
 
