@@ -55,6 +55,7 @@ NSCSCC | 资源包 | PPT | 开源代码
 
 **实践** [Verilog, Formal Verification and Verilator Beginner's Tutorial](https://zipcpu.com/tutorial/)
 
+**乱序执行入门** [riscv-boom](https://boom-core.org/)
 
 ## Vivado
 
