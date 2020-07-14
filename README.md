@@ -6,7 +6,7 @@
 
 全国大学生计算机系统能力培养大赛（以下简称“大赛”）是由教育部高等学校计算机类专业教学指导委员会和系统能力培养研究专家组共同发起，以学科竞赛推动专业建设和计算机领域创新人才培养体系改革、培育我国高端芯片及核心系统的技术突破与产业化后备人才为目标，面向高校大学生举办的全国性大赛。大赛旨在选拔未来我国计算机系统的设计、分析、优化与应用人才，激发学生的想象力、创新力和工程实践能力并培养其团队协作精神，以赛促学、以赛促教，为高质量专业人才搭建交流、展示、合作的平台，助力我国高校与企业产学研合作的健康快速发展。
 
-## 团队赛
+## 团队赛（2020）
 
 资源包： https://nscscc2020-team.oss-cn-beijing.aliyuncs.com/nscscc2020_group_v0.01.zip 
 
@@ -16,7 +16,7 @@
 
 第一次线上培训：https://www.bilibili.com/video/BV1kQ4y1A7zm?p=1
 
-## 个人赛
+## 个人赛(2020)
 
 资源包: https://cloud.tsinghua.edu.cn/d/ee6e2c2688264ca09b85/ 
 
@@ -37,7 +37,7 @@ NSCSCC | 资源包 | PPT | 开源代码
 
 [第二届-myCPU启动Linux指南-国科大.pdf](https://github.com/loongson-education/nscscc-wiki/blob/master/历届信息/NSCSCC2018/第二届-myCPU启动Linux指南-国科大.pdf)
 
-[第二届-心得总结-北理工]([https://github.com/cnyangkun/nscscc2018/blob/master/DOC/%E7%B3%BB%E7%BB%9F%E8%83%BD%E5%8A%9B%E5%9F%B9%E5%85%BB%E5%A4%A7%E8%B5%9B%E5%8F%82%E8%B5%9B%E5%BF%83%E5%BE%97%E6%80%BB%E7%BB%93-%E5%8C%97%E7%90%86%E5%B7%A5.pdf](https://github.com/cnyangkun/nscscc2018/blob/master/DOC/系统能力培养大赛参赛心得总结-北理工.pdf))
+[第二届-“龙芯杯”系统能力培养大赛心得总结-北理工](https://github.com/cnyangkun/nscscc2018/blob/master/DOC/系统能力培养大赛参赛心得总结-北理工.pdf) :star:
 
 [第三届-针对参加龙芯杯的若干建议-北理工](https://github.com/Silverster98/bit_nscscc_suggestion)
 
