@@ -34,10 +34,15 @@
 
 下载链接：https://share.weiyun.com/niAY7Hjv
 
-## 线上培训
+## 培训
 
-[第一次线上培训](https://www.bilibili.com/video/BV124411J7Tu) [第二次线上培训](https://www.bilibili.com/video/BV1Yt41137y5)
+### 第一次线上培训
 
+[**视频**](https://www.bilibili.com/video/BV124411J7Tu) 
+[**PPT**](https://pan.baidu.com/s/14XjhU4DUex-3cyMXAGG1rw) 提取码：6666
+### 第二次线上培训
+[**视频**](https://www.bilibili.com/video/BV1Yt41137y5)
+[**PPT**](https://pan.baidu.com/s/13vxztF21Eclgi4Hv48fqWg)  提取码：6666
 ## 开源代码
 
 [清华大学1队](https://github.com/trivialmips/nontrivial-mips) @trivialmips

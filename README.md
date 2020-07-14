@@ -16,7 +16,7 @@
 
 第一次线上培训：https://www.bilibili.com/video/BV1kQ4y1A7zm?p=1
 
-## 个人赛(2020)
+## 个人赛（2020）
 
 资源包: https://cloud.tsinghua.edu.cn/d/ee6e2c2688264ca09b85/ 
 
@@ -24,18 +24,18 @@
 
 ## 往届信息
 
-NSCSCC | 资源包 | PPT | 开源代码 
------------- | ------------- | ------------- | -------------
-[NSCSCC2019](./历届信息/NSCSCC2019.md) | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark:
-[NSCSCC2018](./历届信息/NSCSCC2018) | :x: | :heavy_check_mark: | :heavy_check_mark:
-[NSCSCC2017](./历届信息/NSCSCC2017) | :x: | :heavy_check_mark: | :heavy_check_mark:
+NSCSCC | 成绩 | 资源包 | 培训 | 答辩PPT | 开源代码 
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- 
+[NSCSCC2019](./历届信息/NSCSCC2019.md) | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
+[NSCSCC2018](./历届信息/NSCSCC2018) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[NSCSCC2017](./历届信息/NSCSCC2017) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 ## 经验分享
 
-[第一届-参赛经验分享-清华.pdf](https://github.com/loongson-education/nscscc-wiki/blob/master/历届信息/NSCSCC2017/第一届-参赛经验分享-清华.pdf)
+[第一届-参赛经验分享-清华](https://github.com/loongson-education/nscscc-wiki/blob/master/历届信息/NSCSCC2017/第一届-参赛经验分享-清华.pdf)
 
-[第一届-指导老师经验分享-南航.pdf](https://github.com/loongson-education/nscscc-wiki/blob/master/历届信息/NSCSCC2017/第一届-指导老师经验分享-南航.pdf)
+[第一届-指导老师经验分享-南航](https://github.com/loongson-education/nscscc-wiki/blob/master/历届信息/NSCSCC2017/第一届-指导老师经验分享-南航.pdf)
 
-[第二届-myCPU启动Linux指南-国科大.pdf](https://github.com/loongson-education/nscscc-wiki/blob/master/历届信息/NSCSCC2018/第二届-myCPU启动Linux指南-国科大.pdf)
+[第二届-myCPU启动Linux指南-国科大](https://github.com/loongson-education/nscscc-wiki/blob/master/历届信息/NSCSCC2018/第二届-myCPU启动Linux指南-国科大.pdf)
 
 [第二届-“龙芯杯”系统能力培养大赛心得总结-北理工](https://github.com/cnyangkun/nscscc2018/blob/master/DOC/系统能力培养大赛参赛心得总结-北理工.pdf) :star:
 
@@ -55,9 +55,9 @@ NSCSCC | 资源包 | PPT | 开源代码
 
 **理论 视频** [2018年计算机体系结构课程导教班](https://www.bilibili.com/video/BV17E411W7NS)
 
-**verilog** [Verilog Tutorial](http://asic-world.com/verilog/veritut.html)
+**Verilog** [Verilog Tutorial](http://asic-world.com/verilog/veritut.html)
 
-**实践** [Verilog, Formal Verification and Verilator Beginner's Tutorial](https://zipcpu.com/tutorial/)
+**Tutorial** [Verilog, Formal Verification and Verilator Beginner's Tutorial](https://zipcpu.com/tutorial/)
 
 **乱序执行入门** [RISC-V BOOM](https://boom-core.org/)
 
