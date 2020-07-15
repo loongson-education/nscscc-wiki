@@ -25,8 +25,8 @@
 NSCSCC | 资源包 | PPT | 开源代码 
 ------------ | ------------- | ------------- | -------------
 [NSCSCC2019](./历届信息/NSCSCC2019.md) | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark:
-[NSCSCC2018](./历届信息/NSCSCC2018) | :x: | :x: | :heavy_check_mark:
-[NSCSCC2017](./历届信息/NSCSCC2017) | :x: | :x: | :heavy_check_mark:
+[NSCSCC2018](./历届信息/NSCSCC2018) | :x: | :heavy_check_mark: | :heavy_check_mark:
+[NSCSCC2017](./历届信息/NSCSCC2017) | :x: | :heavy_check_mark: | :heavy_check_mark:
 ## 经验分享
 
 [第一届-参赛经验分享-清华.pdf](https://github.com/loongson-education/nscscc-wiki/blob/master/历届信息/NSCSCC2017/第一届-参赛经验分享-清华.pdf)
