@@ -8,19 +8,19 @@
 
 ## 团队赛（2020）
 
-资源包： https://nscscc2020-team.oss-cn-beijing.aliyuncs.com/nscscc2020_group_v0.01.zip 
+资源包： [百度网盘](https://pan.baidu.com/s/1WyG1tP9tPnUWVkLE4T8Jtw)  提取码：6666
 
 解压密码：nscscc2020
 
-初赛提交包（beta）：https://github.com/loongson-education/nscscc-group-submission
-
 第一次线上培训：https://www.bilibili.com/video/BV1kQ4y1A7zm?p=1
+
+竞赛设备：[“龙芯” 体系结构与CPU设计教学实验系统](http://loongson.cn/business/general2/jiaoxue/jiaoxueshiyanxiang/2015/11/356.html)
 
 ## 个人赛（2020）
 
-资源包: https://cloud.tsinghua.edu.cn/d/ee6e2c2688264ca09b85/ 
+资源包: [清华大学云盘](https://cloud.tsinghua.edu.cn/d/ee6e2c2688264ca09b85/ )
 
-第一次线上培训：https://www.bilibili.com/video/BV1kQ4y1A7zm?p=2
+第一次线上培训：[哔哩哔哩](https://www.bilibili.com/video/BV1kQ4y1A7zm?p=2)
 
 ## 往届信息
 
@@ -65,7 +65,7 @@ NSCSCC | 成绩 | 资源包 | 培训 | 答辩PPT | 开源代码
 
 下载链接：https://www.xilinx.com/support/download.html
 
-Vivado文档：https://www.xilinx.com/products/design-tools/vivado.html#documentation （关于Vivado的一切都在这里）
+Vivado文档：https://www.xilinx.com/products/design-tools/vivado.html#documentation 
 
 ## 常用链接
 
