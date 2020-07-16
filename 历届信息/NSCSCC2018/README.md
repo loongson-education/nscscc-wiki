@@ -4,9 +4,10 @@
 
 ## 培训
 
+
 大赛发布 [视频](https://www.bilibili.com/video/BV1sZ4y1u7Fc?p=10)
 
-技术方案解读 [视频](https://www.bilibili.com/video/BV1sZ4y1u7Fc?p=11) 
+技术方案解读 [视频](https://www.bilibili.com/video/BV1sZ4y1u7Fc?p=11)
 
 参赛分享-南航 [视频](https://www.bilibili.com/video/BV1sZ4y1u7Fc?p=12) [PPT](./PPT/第一届-指导老师经验分享-南航.pdf)
 

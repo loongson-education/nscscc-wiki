@@ -31,9 +31,9 @@ NSCSCC | 成绩 | 资源包 | 培训 | 答辩PPT | 开源代码
 [NSCSCC2017](./历届信息/NSCSCC2017) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 ## 经验分享
 
-[第一届-参赛经验分享-清华](https://github.com/loongson-education/nscscc-wiki/blob/master/历届信息/NSCSCC2017/第一届-参赛经验分享-清华.pdf)
+[第一届-参赛经验分享-清华](./历届信息/NSCSCC2018/PPT/第一届-参赛经验分享-清华.pdf)
 
-[第一届-指导老师经验分享-南航](https://github.com/loongson-education/nscscc-wiki/blob/master/历届信息/NSCSCC2017/第一届-指导老师经验分享-南航.pdf)
+[第一届-指导老师经验分享-南航](./历届信息/NSCSCC2018/PPT/第一届-指导老师经验分享-南航.pdf)
 
 [第二届-myCPU启动Linux指南-国科大](https://github.com/loongson-education/nscscc-wiki/blob/master/历届信息/NSCSCC2018/第二届-myCPU启动Linux指南-国科大.pdf)
 
