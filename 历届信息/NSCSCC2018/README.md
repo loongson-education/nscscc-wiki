@@ -4,7 +4,15 @@
 
 ## 培训
 
-**视频** 链接：https://pan.baidu.com/s/1Mio1miClT-KpbfbJ2GjcJw  提取码：6666
+**大赛发布** [视频](https://www.bilibili.com/video/BV1sZ4y1u7Fc?p=10)
+
+**技术方案解读** [视频](https://www.bilibili.com/video/BV1sZ4y1u7Fc?p=11) 
+
+**参赛分享-南航** [视频](https://www.bilibili.com/video/BV1sZ4y1u7Fc?p=12) 
+
+**参赛分享-清华** [视频](https://www.bilibili.com/video/BV1sZ4y1u7Fc?p=13)
+
+**线上培训直播** [视频](https://www.bilibili.com/video/BV1sZ4y1u7Fc?p=14)
 
 ## 答辩PPT
 

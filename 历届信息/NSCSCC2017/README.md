@@ -2,7 +2,7 @@
 
 ## 培训
 
-**视频** [第一届系统能力培养大赛培训——龙芯开源CPU介绍](https://www.bilibili.com/video/BV1ex411h7Si/)
+**视频** [第一届系统能力培养大赛培训](https://www.bilibili.com/video/BV1sZ4y1u7Fc?p=1)
 
 ## 答辩PPT
 
