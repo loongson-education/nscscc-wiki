@@ -43,9 +43,9 @@ NSCSCC | 成绩 | 资源包 | 培训 | 答辩PPT | 开源代码
 
 ## 学习资料（望贡献）
 
-**Cache** [CPU Cache支持](./doc/A13_CPU%20TLB%20MMU%E6%94%AF%E6%8C%81.zip)
+**Cache** [CPU Cache支持](./doc/A14_CPU%20Cache%E6%94%AF%E6%8C%81.pdf)
 
-**TLB** [CPU TLB MMU支持](./doc/A14_CPU%20Cache%E6%94%AF%E6%8C%81.pdf)
+**TLB** [CPU TLB MMU支持](./doc/A13_CPU%20TLB%20MMU%E6%94%AF%E6%8C%81.zip)
 
 **外围器件** https://www.fpga4fun.com/
 
