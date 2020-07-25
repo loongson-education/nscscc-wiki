@@ -29,6 +29,8 @@ NSCSCC | 成绩 | 资源包 | 培训 | 答辩PPT | 开源代码
 [NSCSCC2019](./历届信息/NSCSCC2019.md) | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
 [NSCSCC2018](./历届信息/NSCSCC2018) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 [NSCSCC2017](./历届信息/NSCSCC2017) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+
+[2017-2019 线上线下培训合集](https://www.bilibili.com/video/BV1sZ4y1u7Fc/)(建议初学者首先学习2017年线下培训)
 ## 经验分享
 
 [第一届-参赛经验分享-清华](https://github.com/loongson-education/nscscc-wiki/blob/master/历届信息/NSCSCC2017/第一届-参赛经验分享-清华.pdf)
@@ -42,6 +44,8 @@ NSCSCC | 成绩 | 资源包 | 培训 | 答辩PPT | 开源代码
 [第三届-针对参加龙芯杯的若干建议-北理工](https://github.com/Silverster98/bit_nscscc_suggestion)
 
 ## 学习资料（望贡献）
+
+**简单五级流水** [一步一步写MIPS CPU](https://github.com/lvyufeng/step_into_mips)  **视频** [教你写一个简单的CPU](https://www.bilibili.com/video/BV1pK4y1C7es/)
 
 **Cache** [CPU Cache支持](./doc/A13_CPU%20TLB%20MMU%E6%94%AF%E6%8C%81.zip)
 
