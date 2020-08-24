@@ -28,6 +28,7 @@
 
 NSCSCC | 成绩 | 资源包 | 培训 | 答辩PPT | 开源代码 
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- 
+[NSCSCC2020](./历届信息/NSCSCC2020) | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:x:|:heavy_check_mark:
 [NSCSCC2019](./历届信息/NSCSCC2019.md) | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
 [NSCSCC2018](./历届信息/NSCSCC2018) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 [NSCSCC2017](./历届信息/NSCSCC2017) | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
