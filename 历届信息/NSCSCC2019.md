@@ -48,6 +48,7 @@
 ## 开源代码
 
 [清华大学1队](https://github.com/trivialmips/nontrivial-mips) @trivialmips
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trivialmips&repo=nontrivial-mips)](https://github.com/trivialmips/nontrivial-mips)
 
 [北京邮电大学1队](https://github.com/name1e5s/Sirius) @name1e5s
 
