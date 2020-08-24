@@ -2,10 +2,14 @@
 
 ## 团队赛
 
-| 参赛队伍           | 开源链接                                                     | 编程语言      | 简介                                                         |
-| ------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
-| UltraMIPS          | https://github.com/SocialistDalao/UltraMIPS_NSCSCC           | Verilog       | 拥有详细开发文档和友好型代码的来源作品:基于双发射处理器的UltraMIPS系统设计 |
-| 咸鱼们的搬砖体力战 | https://github.com/Superscalar-HIT-Core/SHIT-Core-NSCSCC2020 | SystemVerilog | 基于MIPS指令集的乱序四发射的超标量处理器                     |
+### 开源代码
+
+| 参赛队伍           | 开源链接                                                     | 编程语言               | 简介                                                         |
+| ------------------ | ------------------------------------------------------------ | ---------------------- | ------------------------------------------------------------ |
+| UltraMIPS          | https://github.com/SocialistDalao/UltraMIPS_NSCSCC           | Verilog                | 拥有详细开发文档和友好型代码的来源作品:基于双发射处理器的UltraMIPS系统设计 |
+| 咸鱼们的搬砖体力战 | https://github.com/Superscalar-HIT-Core/SHIT-Core-NSCSCC2020 | SystemVerilog          | 基于MIPS指令集的乱序四发射的超标量处理器                     |
+| 正经做CPU1队       | https://github.com/14010007517/2020NSCSCC                    | Verilog                | 尽可能的挖掘五级流水的潜力                                   |
+| 这道题我真的做不队 | https://github.com/easter-mips                               | SystemVerilog、Chisel3 | 顺序双发五级流水带cache                                      |
 
 
 
