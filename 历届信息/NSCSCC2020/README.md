@@ -10,6 +10,8 @@
 | 咸鱼们的搬砖体力战 | https://github.com/Superscalar-HIT-Core/SHIT-Core-NSCSCC2020 | SystemVerilog          | 基于MIPS指令集的乱序四发射的超标量处理器                     |
 | 正经做CPU1队       | https://github.com/14010007517/2020NSCSCC                    | Verilog                | 尽可能的挖掘五级流水的潜力                                   |
 | 这道题我真的做不队 | https://github.com/easter-mips                               | SystemVerilog、Chisel3 | 顺序双发五级流水带cache                                      |
+| Untitled           | https://code.aliyun.com/SOL/UntitledUnit_FinalSrc            | SystemVerilog          | MIPS-10段流水线                                              |
+| FDU1.2             | https://github.com/TwistsOfFate/vanilla-cpu                  | SystemVerilog          | 性能不俗的五级单发流水线                                     |
 
 
 
