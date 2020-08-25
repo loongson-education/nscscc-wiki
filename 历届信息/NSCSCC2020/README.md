@@ -16,7 +16,9 @@
 | 西北工业大学2队    | https://pan.baidu.com/s/1FrhZBR-2ViAkt_wyKxO7zg 提取码:1234  | Bluespec SystemVerilog | 经典五级流水线                                               |
 | 华东师范大学一队   | https://github.com/amadeus-mips (还未公开)                   | Chisel                 | Chisel3生成的MIPS32 CPU                                      |
 
+### 展示视频
 
+2020龙芯杯团队赛决赛作品：[IC创新学院](https://www.iccollege.cn/study/unit/3019.mooc)
 
 ## 个人赛
 
