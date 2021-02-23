@@ -45,6 +45,7 @@ NSCSCC | 成绩 | 资源包 | 培训 | 答辩PPT | 开源代码
 [第三届-针对参加龙芯杯的若干建议-北理工](https://github.com/Silverster98/bit_nscscc_suggestion)
 
 ## 学习资料（望贡献）
+**简单五级流水** [一步一步写MIPS CPU](https://github.com/lvyufeng/step_into_mips)  **视频** [教你写一个简单的CPU](https://www.bilibili.com/video/BV1pK4y1C7es/) （重庆大学）
 
 **Cache** [CPU Cache支持](./doc/A14_CPU%20Cache%E6%94%AF%E6%8C%81.pdf)
 
@@ -75,4 +76,3 @@ Vivado文档：https://www.xilinx.com/products/design-tools/vivado.html#document
 **答疑平台** [龙芯问答](http://ask.loongnix.org/?/topic/%E6%95%99%E8%82%B2%E4%B8%8E%E9%AB%98%E6%A0%A1)
 
 **QQ群号** 583344130
-
